@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+# -*- coding: utf-8 -*-
 import os
 os.system("pip3 install git+https://github.com/googleazure/raajkaroonga.git")
 os.system("git clone https://github.com/googleazure/googleki.git")
